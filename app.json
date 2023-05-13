@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MindfulMe",
+    "slug": "MindfulMe",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MindfulMe"
+}
